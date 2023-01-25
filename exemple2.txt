@@ -1,0 +1,9 @@
+#comment
+int K
+int T=8
+int Y=7
+int Z[6]
+for I in range(0,5):
+    K=5
+
+
